@@ -1,0 +1,8 @@
+C:\Users\UnderKo\source\repos\CoubDownloader\CoubDownloader\bin\Debug\CoubDownloader.exe.config
+C:\Users\UnderKo\source\repos\CoubDownloader\CoubDownloader\bin\Debug\CoubDownloader.exe
+C:\Users\UnderKo\source\repos\CoubDownloader\CoubDownloader\bin\Debug\CoubDownloader.pdb
+C:\Users\UnderKo\source\repos\CoubDownloader\CoubDownloader\obj\Debug\CoubDownloader.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\CoubDownloader\CoubDownloader\obj\Debug\CoubDownloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\UnderKo\source\repos\CoubDownloader\CoubDownloader\obj\Debug\CoubDownloader.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\CoubDownloader\CoubDownloader\obj\Debug\CoubDownloader.exe
+C:\Users\UnderKo\source\repos\CoubDownloader\CoubDownloader\obj\Debug\CoubDownloader.pdb
